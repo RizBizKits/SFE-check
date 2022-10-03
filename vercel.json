@@ -1,5 +1,8 @@
 {
   "functions": {
-    "maxDuration": 10
+    "pages/*": {
+      "memory": 128,
+      "maxDuration": 10
+    }
   }
 }
